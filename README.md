@@ -8,7 +8,7 @@ _functional website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: Todo-list
+Site published at: https://github.com/Silvija96/PASS-GEN
 
 Design:
 
@@ -61,7 +61,7 @@ There is no tests for this project.
 
 ## Authors
 
-Silvija:
+Silvija: https://silvija96.github.io/PASS-GEN/
 
 ## ⚠️ License
 
